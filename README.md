@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **react, Django, GCP**
 
+- Implementation of Facebook CAPI (server as well as pixel), Google Advanced Conversion 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
