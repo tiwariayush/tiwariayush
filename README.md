@@ -3,7 +3,6 @@
 <h3 align="center">A fullstack developer from Paris</h3>
 
 
-- 🔭 I’m currently working at **ProseHair**
 
 - 🌱 I’m currently learning **Go, Rust**
 
