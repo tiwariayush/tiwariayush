@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **Go, Rust**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tiwariayush1/](https://www.linkedin.com/in/tiwariayush1/)
-
 - 💬 Ask me about **react, Django, GCP**
 
-- Implementation of Facebook CAPI (server as well as pixel), Google Advanced Conversion 
+- Implementation of Facebook CAPI (server as well as pixel), Google Advanced Conversion, Stripe API
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
