@@ -1,14 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Software developer from Paris</h3>
+<h3 align="center">Software developer based in Paris, France</h3>
 
+ My experience spans in leveraging modern technologies to build reliable, efficient, and maintainable systems.
 
+- I specialize in **scalable system design, backend engineering, payment systems, data pipelines, cloud infrastructure, and workflow optimization**.
+  
+- 🌱 I’m currently working on **high-performance automation**.
 
-- 🌱 I’m currently learning **Go, Rust**
+- 💬 Ask me about **React, Django, API Gateway, LLMs**
 
-- 💬 Ask me about **react, Django, GCP**
-
-- Implementation of Facebook CAPI (server as well as pixel), Google Advanced Conversion, Stripe API
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
